@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Users/Semy/Documents/GitHub/COMP305-Prep/Assets/Scenes/Wk5.unity
+  isLoaded: 1
+  isActive: 1
